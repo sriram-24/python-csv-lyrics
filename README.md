@@ -20,7 +20,7 @@ pip install tkinter
 
 ## Screenshots
 
-![sample screen](C:\Users\Sri Ram M\Desktop\python\sample pictures\sample screen.png)
+![](https://github.com/sriram-24/python-csv-lyrics/blob/master/sample%20pictures/sample%20screen.png?raw=true)
 
 ## Reference
 
